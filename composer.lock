@@ -3031,7 +3031,7 @@
             "description": "A One Time Password Authentication package, compatible with Google Authenticator.",
             "keywords": [
                 "2fa",
-                "Authentication",
+                "cation",
                 "Two Factor Authentication",
                 "google2fa"
             ],
